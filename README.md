@@ -1,5 +1,5 @@
 # RunJShell
-Run your own JShell  https://runjshell.com <br>
-For providing secure service to users, source code is managed in a other place.   
+Run your own JShell  https://runjshell.com  
 
-**Welcome to any issues and new features.**
+**Welcome to any issues and new features.** <br>
+For providing secure service to users, source code is managed in a other place. 
