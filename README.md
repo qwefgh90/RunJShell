@@ -6,7 +6,7 @@ You can explore **Java features and new API** through [RunJShell](https://runjsh
 # Features
 
 - Interactive REPL tool for JAVA
-- Isolated user session
+- Isolated user workspace (experiment)
 - A snipets saved or loaded in a browser storage.
 
 # Miscellaneous
