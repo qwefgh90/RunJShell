@@ -1,8 +1,7 @@
 # RunJShell
 Run your own JShell. https://runjshell.com  
 
-You can explore **Java features and new API** through [RunJShell](https://runjshell.com) in mobile, desktop. 
-
+You can explore **Java features and new API** through [RunJShell](https://runjshell.com) in mobile, desktop. For providing improved security and functionality, New features will be updated in this repo and [twitter](https://twitter.com/D5OLQe3fQjMQMnC)
 
 # Features
 
